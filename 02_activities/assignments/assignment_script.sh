@@ -51,7 +51,7 @@ find data/processed -type f > data/inventory.txt
 
 # Option 2: recursive listing, grouped by folder
 ls -R data/processed > data/inventory.txt
-
+# blank line
 ###########################################
 
 echo "Project setup is complete!"
